@@ -1,6 +1,6 @@
 {
   "name": "ec2tail",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "tail the logs of remote EC2 servers",
   "main": "index.js",
   "scripts": {
