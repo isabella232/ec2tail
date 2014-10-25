@@ -1,6 +1,6 @@
 {
   "name": "ec2tail",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "tail the logs of remote EC2 servers",
   "main": "index.js",
   "scripts": {
@@ -31,6 +31,7 @@
     "awssum-amazon-ec2": "^1.5.0",
     "dotenv": "^0.4.0",
     "lodash": "^2.4.1",
-    "ssh2": "^0.3.6"
+    "ssh2": "^0.3.6",
+    "yargs": "^1.3.2"
   }
 }
