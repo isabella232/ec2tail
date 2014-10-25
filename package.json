@@ -1,6 +1,6 @@
 {
   "name": "ec2tail",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "tail the logs of remote EC2 servers",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,6 @@
     "ec2",
     "instances"
   ],
-
   "author": "Ben Coe <ben@npmjs.com>",
   "license": "ISC",
   "devDependencies": {
@@ -31,6 +30,7 @@
     "awssum-amazon": "^1.4.0",
     "awssum-amazon-ec2": "^1.5.0",
     "dotenv": "^0.4.0",
+    "lodash": "^2.4.1",
     "ssh2": "^0.3.6"
   }
 }
