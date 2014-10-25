@@ -6,6 +6,7 @@
   "scripts": {
     "test": "lab -c --timeout 2000"
   },
+  "bin": "./bin/ec2tail.js",
   "repository": {
     "type": "git",
     "url": "git@github.com:npm/ec2tail.git"
